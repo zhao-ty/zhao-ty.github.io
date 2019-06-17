@@ -1,0 +1,1 @@
+var myData={designer:{name:'赵亭玉',phone:'131-4704-6323',tag:["#爱设计爱生活"],bg:'#1E2025'},gallery:[{src:"myworks/8logo.jpg",w:2500,h:2500},{src:"myworks/9logo.jpg",w:2500,h:2500},]}
